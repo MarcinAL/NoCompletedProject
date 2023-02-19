@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1675642998 source:d:\uczelnia\uczelnia\podstawy programowania\zaliczenie\zadanie2\zadanie2\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+
+1676290856 source:c:\users\admin\desktop\uczelnia\podstawy programowania\zaliczenie\zadanie2\zadanie2\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+
+1676557967 source:c:\users\admin\desktop\uczelnia\podstawy programowania\zaliczenie\zadanie2\my_functions.cpp
+	<iostream>
+	"my_types.h"
+	<windows.h>
+	<string>
+	<cstdlib>
+	<fstream>
+
+1676486464 source:c:\users\admin\desktop\uczelnia\podstawy programowania\zaliczenie\zadanie2\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+	"my_types.h"
+
+1676557892 c:\users\admin\desktop\uczelnia\podstawy programowania\zaliczenie\zadanie2\my_types.h
+	<iostream>
+
+1676559573 source:c:\users\admin\desktop\uczelnia\podstawy programowania\zaliczenie\zadanie2\my_types.cpp
+	<iostream>
+	"my_types.h"
+
+1676298014 c:\users\admin\desktop\uczelnia\podstawy programowania\zaliczenie\zadanie2\my_functions.h
+	<iostream>
+	"my_types.cpp"
+
+1676297933 c:\users\admin\desktop\uczelnia\podstawy programowania\zaliczenie\zadanie2\my_types.cpp
+	<iostream>
+	"my_types.h"
+
+1676555823 source:c:\users\admin\desktop\uczelnia\podstawy programowania\zaliczenie\zadanie2\my_overloading.cpp
+	<iostream>
+	"my_types.h"
+	<windows.h>
+	<string>
+	<cstdlib>
+	<fstream>
+
